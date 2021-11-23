@@ -1,6 +1,8 @@
 # Certificates
 <h1>Certificates earned by me during Graduation</h1>
-which includes companies and Universities like....
+
+which includes Companies and Universities like....
+
 <ul>- Google</ul>
 <ul>- Google Developer Groups</ul>
 <ul>-Microsoft</ul>
